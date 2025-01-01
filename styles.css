@@ -1,0 +1,70 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #f3f4f6;
+    color: #333;
+    width: 400PX;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #4CAF50;
+  }
+  
+  #text-to-type {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    display: inline-block;
+    width: 80%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  #typing-area {
+    width: 80%;
+    height: 120px;
+    font-size: 1em;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  #results {
+    margin-top: 20px;
+    font-size: 1.2em;
+  }
+  
+  #results span {
+    font-weight: bold;
+    color: #4CAF50;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  #points {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #ff9800;
+    font-weight: bold;
+  }
+  

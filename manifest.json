@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Typing Speed Improver",
+    "version": "1.0",
+    "description": "Practice typing and improve your speed and accuracy.",
+    "permissions": [],
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "icon.png"
+    },
+    "icons": {
+      "48": "icon.png"
+    }
+  }
+  
